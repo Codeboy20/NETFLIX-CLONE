@@ -1,6 +1,7 @@
 # NETFLIX-CLONE
 
-Description
+Description : 
+
 This project is a simple Netflix clone created using only HTML and CSS. It replicates the basic structure and layout of the Netflix website, providing a hands-on exercise in front-end web development.
 
 Technologies Used
